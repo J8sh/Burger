@@ -1,8 +1,9 @@
 # Burger
-Node Express Handlebars
+(Node Express Handlebars)
 
 <p>Using MVP fromat to keep files organized.</p>
 <p>Using Express.js to communicate the user input to the database.</p>
+<p>Using Handlebars to simplify HTML files</p>
 <br>
 <p>User will input what type of burger they want</p>
 <p>Once entered, the data is stored in databse</p>
